@@ -1,3 +1,5 @@
+_This repository is an archive of the old version of nonojs._
+
 # NonoJs - A free nonogram platform
 ![Example Screenshot](/images/readme-preview.png)
 
